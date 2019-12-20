@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROJECTS\\Composition\\Composition\\Composition.csproj": {}
+    "C:\\Users\\Luis_Dutra\\source\\repos\\Composition\\Composition\\Composition\\Composition.csproj": {}
   },
   "projects": {
-    "C:\\PROJECTS\\Composition\\Composition\\Composition.csproj": {
+    "C:\\Users\\Luis_Dutra\\source\\repos\\Composition\\Composition\\Composition\\Composition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROJECTS\\Composition\\Composition\\Composition.csproj",
+        "projectUniqueName": "C:\\Users\\Luis_Dutra\\source\\repos\\Composition\\Composition\\Composition\\Composition.csproj",
         "projectName": "Composition",
-        "projectPath": "C:\\PROJECTS\\Composition\\Composition\\Composition.csproj",
+        "projectPath": "C:\\Users\\Luis_Dutra\\source\\repos\\Composition\\Composition\\Composition\\Composition.csproj",
         "packagesPath": "C:\\Users\\Luis_Dutra\\.nuget\\packages\\",
-        "outputPath": "C:\\PROJECTS\\Composition\\Composition\\obj\\",
+        "outputPath": "C:\\Users\\Luis_Dutra\\source\\repos\\Composition\\Composition\\Composition\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
